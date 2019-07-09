@@ -1,0 +1,13 @@
+---
+layout: post
+title:  more firsts
+date: 2019-06-18 19:01:00
+description: My project pitch at the PhD Bazaar.
+---
+The PhD school at DTU Compute organized a PhD Bazaar. It was a great opportunity to learn about everyone's work and I feel lucky to be part this amazing group of young researchers. My own pitch was caught on  <a href="https://video.dtu.dk/media/Pola+Schwöbel/0_1890tjat">video</a>.
+
+<div class="img">
+	<img class="col three" src="/img/pitch.png">
+</div>
+<div class="col three caption">
+</div>
