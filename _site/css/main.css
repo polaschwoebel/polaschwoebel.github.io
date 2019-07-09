@@ -77,7 +77,7 @@ a {
   text-decoration: none;
   /*
   &:visited {
-      color: darken($brand-color, 15%); 
+      color: darken($brand-color, 15%);
   }
   */ }
   a:hover {
@@ -199,7 +199,7 @@ pre {
   width: 100%;
   text-align: center;
   padding-top: 25px;
-  line-height: 3em;
+  line-height: 4em;
   z-index: 25; }
   .header-bar h1 {
     color: #FF3636;
@@ -311,7 +311,7 @@ pre {
     .poem-title {
       font-size: 16px; } }
 
-/** 
+/**
  * Portfolio grid **********************************************************
 */
 .clearfix:before,
@@ -363,7 +363,7 @@ pre {
 .thumbnail a:hover span {
   display: block; }
 
-/** 
+/**
  * Portfolio pages **********************************************************
 */
 .blankbox {
