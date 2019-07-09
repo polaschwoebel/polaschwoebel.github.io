@@ -77,7 +77,7 @@ a {
   text-decoration: none;
   /*
   &:visited {
-      color: darken($brand-color, 15%);
+      color: darken($brand-color, 15%); 
   }
   */ }
   a:hover {
@@ -311,7 +311,7 @@ pre {
     .poem-title {
       font-size: 16px; } }
 
-/**
+/** 
  * Portfolio grid **********************************************************
 */
 .clearfix:before,
@@ -363,7 +363,7 @@ pre {
 .thumbnail a:hover span {
   display: block; }
 
-/**
+/** 
  * Portfolio pages **********************************************************
 */
 .blankbox {
