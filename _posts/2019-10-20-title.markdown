@@ -1,10 +1,10 @@
 ---
 layout: post
-title: talk @ AI expo
+title: talk at AI expo
 date: 2019-10-20 12:11:00
 description: I gave a talk at DTU's Skylab: "Bias in - Bias out? Building Fair Models from Imbalanced Data."
 ---
-Last month I was invited to give a talk at the AI Expo at <a href="hhttps://www.skylab.dtu.dk">Skylab</a>, DTU's lovely space for student innovation and entrepreneurship. I gave a quick overview over the field of Algorithmic Fairness and spoke a bit about my own research. The slides can be found <a href="polaschwoebel.github.io/pdf/Bias_in_bias_out.pdf" target="_blank">here.</a>
+Last month I was invited to give a talk at the AI Expo at <a href="hhttps://www.skylab.dtu.dk">Skylab</a>, DTU's lovely space for student innovation and entrepreneurship. I gave a quick overview over the field of Algorithmic Fairness and spoke a bit about my own research. The slides can be found <a href="polaschwoebel.github.io/pdf/Bias_in_bias_out.pdf" target="_blank">here</a>.
 
 
 <div class="img">
