@@ -7,13 +7,13 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-	After obtaining my BSc in Mathematics from the Technical University of Berlin in 2016 I moved to Denmark where I studied a MSc in Machine Learning and Cognitive Science. I recently won a scholarship allowing me to carry out my PhD research at the Technical University of Denmark - you can find some details on the project <a href="https://www.compute.dtu.dk/english/phd/current-phd/phd-cogsys/posc">here</a>.
-	When I am not coding, puzzling over formulas or reading up on Algorithmic Fairness, I am trying to make our field better by supporting different women in tech initiatives.
+	After obtaining my BSc in Mathematics from the Technical University of Berlin in 2016 I moved to Denmark where I studied a MSc in Machine Learning and Cognitive Science. In 2019 I won a scholarship allowing me to carry out my PhD research at the Technical University of Denmark - you can find some details on the project <a href="https://www.compute.dtu.dk/english/phd/current-phd/phd-cogsys/posc">here</a>.
+	When I am not coding, puzzling over equations or reading up on Algorithmic Fairness, I am trying to make our field better by supporting different women in tech initiatives.
 <br/>
 <hr/>
 <br/>
 <div class="col three caption">
-	Comments, questions, fabulous ideas? Drop me a line.
+	Get in touch.
 </div>
 
 

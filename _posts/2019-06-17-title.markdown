@@ -4,8 +4,6 @@ title:  a lot of firsts
 date: 2019-06-17 17:53:00
 description: How to make a website if you're a computer scientist but pretty clueless about the internet.
 ---
-I finally made my website to collect some notes, thoughts and learnings from my PhD.
-
-It seems that it's become increasingly more important to market yourself as a young researcher (or, really, as a human being). While many of us are critical of this trend  - and rightfully so - I do think there is value in learning how to communicate your work. DTU puts a lot of focus on teaching us this kind of skills, and I am very grateful for their effort.
+I finally made my website to collect some notes, thoughts and learnings from my PhD. It seems that it's become increasingly more important to market yourself as a researcher (or, really, as a human being). While many of us are critical of this trend  - and rightfully so - I do think there is value in learning how to communicate your work.
 
 So I went ahead and made my own website! I used github.pages and the jekyll templating engine. The upsides: It's free, and rather easy to do if you have some basic coding skills. It should also make it very easy to publish tutorials and all things code - we'll see about this later. The downside: While there is templates out there to use, it probably won't turn out quite as beautiful as with services like squarespace or cargo collective (at least not with my newly acquired and very mediocre web development hacker skills).
