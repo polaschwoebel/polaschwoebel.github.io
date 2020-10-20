@@ -1,1 +1,1 @@
-The code for <a href="https://polaschwoebel.github.io">https://polaschwoebel.github.io</a>.
+The code for <a href="https://polaschwoebel.github.io">https://polaschwoebel.github.io</a> based on the <a href="http://bogoli.github.io/-folio/">folio</a> theme. 
