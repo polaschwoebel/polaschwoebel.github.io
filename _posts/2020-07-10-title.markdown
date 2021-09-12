@@ -1,7 +1,7 @@
 ---
 layout: post
-title: new paper
+title: paper
 date: 2020-07-10 09:26:00
-description: Our work on "Probabilistic Spatial Transformers for Bayesian Data Augmentation" is out on arxiv.
+description: The "Probabilistic Spatial Transformers for Bayesian Data Augmentation" preprint is out on arxiv.
 ---
 You can find "Probabilistic Spatial Transformers for Bayesian Data Augmentation" <a href="https://arxiv.org/pdf/2004.03637.pdf">here</a>. 

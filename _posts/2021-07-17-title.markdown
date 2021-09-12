@@ -1,0 +1,8 @@
+---
+layout: post
+title: gradient article
+date: 2021-07-17 19:26:00
+description: We wrote an article on algoritmic fairness for the Gradient.
+---
+
+More thoughts on Algorithmic Fairness. <a href="https://thegradient.pub/justitia-ex-machina/">Can morals be automated?</a>.
