@@ -1,0 +1,51 @@
+---
+layout: post
+title: AI ethics reading list
+date: 2021-11-01 18:11:00
+description: I put together a list of (popular) science books and blog posts. 
+---
+Here's some reading that I've enjoyed or am looking forward to on AI Ethics and Fair ML:
+
+**Popular science // non-fiction books**
+
+- Weapons of math destruction — _Cathy O'Neil_:
+Nice outline of what I believe is the biggest ethical concern regarding ML systems: They reinforce existing biases and inequalities. 
+
+- Data Feminism — _Catherine D'Ignazio & Lauren F. Klein_:
+A tour of data/AI ethics from a feminist standpoint; feminism here meant in its broadest intersectional sense (i.e. they also consider race, ability status, etc.). Quite heavy on the examples. This book is <a href="https://data-feminism.mitpress.mit.edu"> freely available online </a>.
+
+- Algorithms of Oppression — _Safiya Umoja Noble_: 
+Focuses on race and representation in the context of search engines.  
+
+- Race after technology — _Ruha Benjamin_: 
+I haven’t read this one yet, here’s what Wikipedia says: "Race After Technology: Abolitionist Tools for the New Jim Code is a 2019 American book focusing on a range of ways in which social hierarchies, particularly racism, are embedded in the logical layer of internet-based technologies."
+
+- The Alignment Problem: Machine Learning and Human Values — _Brian Christian_:
+I haven’t read this one yet, it seems to be a pretty broad intro to the ethics of ML. 
+
+- Invisible Women — _Caroline Criado Perez_: 
+A lot of our world is designed in a data-driven way, but for historical reasons this data is often data collected on men (for example in the military). As a consequence women are, for example, 47% more likely to get injured in car accidents. Urgh. 
+Can also recommend the related <a href="https://99percentinvisible.org/episode/invisible-women/">99% invisible podcast episode</a>.
+
+- The Age of Surveillance Capitalism — _Shoshana Zuboff_:
+An analysis of the problematic economics of big data. 
+
+- Artificial Unintelligence — _Meredith Broussard_:
+"A guide to understanding the inner workings and outer limits of technology and why we should never assume that computers always get it right."
+
+
+**Science writing**
+
+- FairML book — _Solon Barocas, Moritz Hardt & Arvind Narayanan_:
+A textbook on fair machine learning giving an overview of the relatively young field. This is for technical readers (nothing scary but contains some math/ml). Available <a href="https://fairmlbook.org">here</a>. 
+
+- <a href="https://facctconference.org/index.html">FAccT conference proceedings </a>: 
+Latest research trends within Fairness, Accountability and Transparency in ML. 
+
+
+**Blogs etc.**
+
+- <a href="https://www.ajl.org">Algorithmic Justice League</a>. 
+The amazing _Joy Buolamwini_ who started the AJL initiative and her collaborators made a documentary, it’s on <a href="https://www.netflix.com/title/81328723">Netflix</a>. 
+
+- An <a href="https://thegradient.pub/justitia-ex-machina/">article</a> on why I believe it's useful working on ML Fairness.  

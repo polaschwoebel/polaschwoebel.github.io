@@ -1,5 +1,68 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-09-12T17:37:44+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pola Schwöbel</title><subtitle>A simple, whitespace, helvetica based portfolio theme.
-</subtitle><entry><title type="html">gradient article</title><link href="http://localhost:4000/2021/07/17/title.html" rel="alternate" type="text/html" title="gradient article" /><published>2021-07-17T20:26:00+01:00</published><updated>2021-07-17T20:26:00+01:00</updated><id>http://localhost:4000/2021/07/17/title</id><content type="html" xml:base="http://localhost:4000/2021/07/17/title.html">&lt;p&gt;More thoughts on Algorithmic Fairness. &lt;a href=&quot;https://thegradient.pub/justitia-ex-machina/&quot;&gt;Can morals be automated?&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">More thoughts on Algorithmic Fairness. Can morals be automated?.</summary></entry><entry><title type="html">paper</title><link href="http://localhost:4000/2021/07/10/title.html" rel="alternate" type="text/html" title="paper" /><published>2021-07-10T21:00:00+01:00</published><updated>2021-07-10T21:00:00+01:00</updated><id>http://localhost:4000/2021/07/10/title</id><content type="html" xml:base="http://localhost:4000/2021/07/10/title.html">&lt;p&gt;&lt;a href=&quot;https://arxiv.org/pdf/2106.07512.pdf&quot;&gt;This work&lt;/a&gt; is the outcome of my (mostly remote, unfortunately) research stay at Imperial College London where I was visiting Mark van der Wilk. Other collaborators are Martin Jørgensen and Sebastian Ober.&lt;/p&gt;</content><author><name></name></author><summary type="html">This work is the outcome of my (mostly remote, unfortunately) research stay at Imperial College London where I was visiting Mark van der Wilk. Other collaborators are Martin Jørgensen and Sebastian Ober.</summary></entry><entry><title type="html">portrait</title><link href="http://localhost:4000/2020/11/04/title.html" rel="alternate" type="text/html" title="portrait" /><published>2020-11-04T09:26:00+00:00</published><updated>2020-11-04T09:26:00+00:00</updated><id>http://localhost:4000/2020/11/04/title</id><content type="html" xml:base="http://localhost:4000/2020/11/04/title.html">&lt;p&gt;I was interviewed for an article about my work in non-technical terms that you can find &lt;a href=&quot;https://www.dtu.dk/english/about/press-room/articles/2020/11/matematik-med-et-menneskeligt-ansigt?id=375e1e4f-bbdd-4523-a89f-5ca287614ac5&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">I was interviewed for an article about my work in non-technical terms that you can find here.</summary></entry><entry><title type="html">thoughts on algorithmic fairness</title><link href="http://localhost:4000/2020/10/18/title.html" rel="alternate" type="text/html" title="thoughts on algorithmic fairness" /><published>2020-10-18T17:44:00+01:00</published><updated>2020-10-18T17:44:00+01:00</updated><id>http://localhost:4000/2020/10/18/title</id><content type="html" xml:base="http://localhost:4000/2020/10/18/title.html">&lt;p&gt;&lt;strong&gt;Introduction and Overview&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-01T20:31:23+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pola Schwöbel</title><subtitle>A simple, whitespace, helvetica based portfolio theme.
+</subtitle><entry><title type="html">AI ethics reading list</title><link href="http://localhost:4000/2021/11/01/title.html" rel="alternate" type="text/html" title="AI ethics reading list" /><published>2021-11-01T18:11:00+00:00</published><updated>2021-11-01T18:11:00+00:00</updated><id>http://localhost:4000/2021/11/01/title</id><content type="html" xml:base="http://localhost:4000/2021/11/01/title.html">&lt;p&gt;Here’s some reading that I’ve enjoyed or am looking forward to on AI Ethics and Fair ML:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Popular science // non-fiction books&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Weapons of math destruction — &lt;em&gt;Cathy O’Neil&lt;/em&gt;:
+Nice outline of what I believe is the biggest ethical concern regarding ML systems: They reinforce existing biases and inequalities.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Data Feminism — &lt;em&gt;Catherine D’Ignazio &amp;amp; Lauren F. Klein&lt;/em&gt;:
+A tour of data/AI ethics from a feminist standpoint; feminism here meant in its broadest intersectional sense (i.e. they also consider race, ability status, etc.). Quite heavy on the examples. This book is &lt;a href=&quot;https://data-feminism.mitpress.mit.edu&quot;&gt; freely available online &lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Algorithms of Oppression — &lt;em&gt;Safiya Umoja Noble&lt;/em&gt;: 
+Focuses on race and representation in the context of search engines.  &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Race after technology — &lt;em&gt;Ruha Benjamin&lt;/em&gt;: 
+I haven’t read this one yet, here’s what Wikipedia says: “Race After Technology: Abolitionist Tools for the New Jim Code is a 2019 American book focusing on a range of ways in which social hierarchies, particularly racism, are embedded in the logical layer of internet-based technologies.”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Alignment Problem: Machine Learning and Human Values — &lt;em&gt;Brian Christian&lt;/em&gt;:
+I haven’t read this one yet, it seems to be a pretty broad intro to the ethics of ML.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Invisible Women — &lt;em&gt;Caroline Criado Perez&lt;/em&gt;: 
+A lot of our world is designed in a data-driven way, but for historical reasons this data is often data collected on men (for example in the military). As a consequence women are, for example, 47% more likely to get injured in car accidents. Urgh. 
+Can also recommend the related &lt;a href=&quot;https://99percentinvisible.org/episode/invisible-women/&quot;&gt;99% invisible podcast episode&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Age of Surveillance Capitalism — &lt;em&gt;Shoshana Zuboff&lt;/em&gt;:
+An analysis of the problematic economics of big data.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Artificial Unintelligence — &lt;em&gt;Meredith Broussard&lt;/em&gt;:
+“A guide to understanding the inner workings and outer limits of technology and why we should never assume that computers always get it right.”&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Science writing&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;FairML book — &lt;em&gt;Solon Barocas, Moritz Hardt &amp;amp; Arvind Narayanan&lt;/em&gt;:
+A textbook on fair machine learning giving an overview of the relatively young field. This is for technical readers (nothing scary but contains some math/ml). Available &lt;a href=&quot;https://fairmlbook.org&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://facctconference.org/index.html&quot;&gt;FAccT conference proceedings &lt;/a&gt;: 
+Latest research trends within Fairness, Accountability and Transparency in ML.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Blogs etc.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.ajl.org&quot;&gt;Algorithmic Justice League&lt;/a&gt;. 
+The amazing &lt;em&gt;Joy Buolamwini&lt;/em&gt; who started the AJL initiative and her collaborators made a documentary, it’s on &lt;a href=&quot;https://www.netflix.com/title/81328723&quot;&gt;Netflix&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;An &lt;a href=&quot;https://thegradient.pub/justitia-ex-machina/&quot;&gt;article&lt;/a&gt; on why I believe it’s useful working on ML Fairness.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Here’s some reading that I’ve enjoyed or am looking forward to on AI Ethics and Fair ML:</summary></entry><entry><title type="html">gradient article</title><link href="http://localhost:4000/2021/07/17/title.html" rel="alternate" type="text/html" title="gradient article" /><published>2021-07-17T20:26:00+01:00</published><updated>2021-07-17T20:26:00+01:00</updated><id>http://localhost:4000/2021/07/17/title</id><content type="html" xml:base="http://localhost:4000/2021/07/17/title.html">&lt;p&gt;More thoughts on Algorithmic Fairness. &lt;a href=&quot;https://thegradient.pub/justitia-ex-machina/&quot;&gt;Can morals be automated?&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">More thoughts on Algorithmic Fairness. Can morals be automated?.</summary></entry><entry><title type="html">paper</title><link href="http://localhost:4000/2021/07/10/title.html" rel="alternate" type="text/html" title="paper" /><published>2021-07-10T21:00:00+01:00</published><updated>2021-07-10T21:00:00+01:00</updated><id>http://localhost:4000/2021/07/10/title</id><content type="html" xml:base="http://localhost:4000/2021/07/10/title.html">&lt;p&gt;&lt;a href=&quot;https://arxiv.org/pdf/2106.07512.pdf&quot;&gt;This work&lt;/a&gt; is the outcome of my (mostly remote, unfortunately) research stay at Imperial College London where I was visiting Mark van der Wilk. Other collaborators are Martin Jørgensen and Sebastian Ober.&lt;/p&gt;</content><author><name></name></author><summary type="html">This work is the outcome of my (mostly remote, unfortunately) research stay at Imperial College London where I was visiting Mark van der Wilk. Other collaborators are Martin Jørgensen and Sebastian Ober.</summary></entry><entry><title type="html">portrait</title><link href="http://localhost:4000/2020/11/04/title.html" rel="alternate" type="text/html" title="portrait" /><published>2020-11-04T09:26:00+00:00</published><updated>2020-11-04T09:26:00+00:00</updated><id>http://localhost:4000/2020/11/04/title</id><content type="html" xml:base="http://localhost:4000/2020/11/04/title.html">&lt;p&gt;I was interviewed for an article about my work in non-technical terms that you can find &lt;a href=&quot;https://www.dtu.dk/english/about/press-room/articles/2020/11/matematik-med-et-menneskeligt-ansigt?id=375e1e4f-bbdd-4523-a89f-5ca287614ac5&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">I was interviewed for an article about my work in non-technical terms that you can find here.</summary></entry><entry><title type="html">thoughts on algorithmic fairness</title><link href="http://localhost:4000/2020/10/18/title.html" rel="alternate" type="text/html" title="thoughts on algorithmic fairness" /><published>2020-10-18T17:44:00+01:00</published><updated>2020-10-18T17:44:00+01:00</updated><id>http://localhost:4000/2020/10/18/title</id><content type="html" xml:base="http://localhost:4000/2020/10/18/title.html">&lt;p&gt;&lt;strong&gt;Introduction and Overview&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;As research in machine learning is rapidly progressing, more and more decisions that affect our lives are being automated. These can be rather trivial decisions (e.g. which coffee brand is advertised to me online), but increasingly also more essential judgements are being handed over to algorithms, for example whether we are eligible for a bank loan in order to buy an apartment. If algorithms fail in such a scenario, the consequences for the individual are dire.
  The COMPAS case is arguably the most prominent example of such algorithmic decision-making failing in systematic ways - in an extremely high stakes scenario.  The COMPAS (short for Correctional Offender Management Profiling for Alternative Sanctions) algorithm is a predictive justice tool by for-profit company Northpointe used in the US to evaluate risk of recidivism, i.e. how likely a criminal is to re-offend. The tool is used by judges in their decision making on parole, sentence length etc.  Investigative journalists at ProPublica discovered in their famous 2016 study [1] how Northpointe’s algorithm is racially biased: it more often underestimates risk of re-offending for white people and overestimates it for African Americans.&lt;/p&gt;
