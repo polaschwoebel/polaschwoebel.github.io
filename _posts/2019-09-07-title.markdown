@@ -1,6 +1,6 @@
 ---
 layout: post
-title: summer school organization
+title: Summer School Organization
 date: 2019-09-06 16:11:00
 description: I hosted a summer school on fairness and machine learning.
 ---

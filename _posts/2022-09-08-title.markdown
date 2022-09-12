@@ -1,0 +1,8 @@
+---
+layout: post
+title: PhD Defence
+date: 2022-09-08 17:09:00
+description: I successfully defended my PhD.
+---
+
+PhD defences are public in Denmark and a big part of it is a lecture by the PhD candidate. Mine is available <a href="https://www.youtube.com/watch?v=Y9NUo_3cUIw">here</a>. 

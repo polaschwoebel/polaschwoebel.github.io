@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI ethics reading list
+title: AI Ethics Reading List
 date: 2021-11-01 18:11:00
 description: I put together a list of (popular) science books and blog posts. 
 ---

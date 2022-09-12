@@ -1,6 +1,6 @@
 ---
 layout: post
-title: paper
+title: Paper
 date: 2021-07-10 20:00:00
 description: A preprint for "Last Layer Marginal Likelihood for Invariance Learning" is out on arxiv.
 ---

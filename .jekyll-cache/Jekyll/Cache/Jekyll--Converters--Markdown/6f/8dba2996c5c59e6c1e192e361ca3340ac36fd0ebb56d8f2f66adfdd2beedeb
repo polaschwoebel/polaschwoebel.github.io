@@ -1,0 +1,15 @@
+I"X<p>My section holds a summer school on Advanced Topics in Machine Learning every year. For the first time it was organized by a PhD student - me! I chose the topic “Fairness and Machine Learning” and hosted the <a href="http://www2.compute.dtu.dk/courses/02901/"> event</a> at DTU from August 26th - 30th.</p>
+
+<p>Algorithmic fairness is something I am interested in personally, and many more people are. A quite vibrant research field within computer science and ML in particular has emerged during the last 8 years or so. People are interested in measuring how “fair” algorithms are, for example by evaluating whether their decisions are equally advantageous for men and women, or whether the same prediction accuracy is achieved across different demographic groups. Once algorithmic bias is detected, researchers try to develop techniques to overcome it.</p>
+
+<p>Measuring fairness in such a quantitative way is of course a hard thing to do. Fairness can mean different things depending on context, and some of the definitions contradict each other. While we as computer scientists cannot solve those societal questions, I find it very useful to try and operationalize some of our ideas of ethics and translate them into formulas and code, thereby making them accessible for the technical community to work with. Putting something into maths is also a really good way to force yourself to be precise about what exactly you mean when you say an algorithm is (un-)fair.</p>
+
+<p>Our great speakers gave lectures and tutorials during the five course days. In the evening there were social events, e.g. a fantastic meetup where start up people talked about the implementation of the theoretical concepts we had been discussing. Super interesting week packed with smart people discussing difficult problems (and a lot of hard work pulling all the strings). Looking forward to next year!</p>
+
+<div class="img">
+	<img class="col three" src="/img/silvia_chiappa.jpg" />
+</div>
+<div class="col three caption">
+	A bad picture of a great talk: Silvia Chiappa from Deepmind talking about Algorithmic Fairness and Causal Inference.
+</div>
+:ET

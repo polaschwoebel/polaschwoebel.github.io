@@ -1,6 +1,6 @@
 ---
 layout: post
-title: thoughts on algorithmic fairness
+title: Thoughts on Algorithmic Fairness
 date: 2020-10-18 16:44:00
 description: Can we get machines to make just decisions, and should we try?
 ---

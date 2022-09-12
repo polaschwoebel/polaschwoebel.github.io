@@ -1,159 +1,166 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-01T20:31:23+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pola Schwöbel</title><subtitle>A simple, whitespace, helvetica based portfolio theme.
-</subtitle><entry><title type="html">AI ethics reading list</title><link href="http://localhost:4000/2021/11/01/title.html" rel="alternate" type="text/html" title="AI ethics reading list" /><published>2021-11-01T18:11:00+00:00</published><updated>2021-11-01T18:11:00+00:00</updated><id>http://localhost:4000/2021/11/01/title</id><content type="html" xml:base="http://localhost:4000/2021/11/01/title.html">&lt;p&gt;Here’s some reading that I’ve enjoyed or am looking forward to on AI Ethics and Fair ML:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-12T19:16:55+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pola Schwöbel</title><subtitle>A simple, whitespace, helvetica based portfolio theme.
+</subtitle><entry><title type="html">Papers</title><link href="http://localhost:4000/2022/09/12/title.html" rel="alternate" type="text/html" title="Papers" /><published>2022-09-12T13:52:00+02:00</published><updated>2022-09-12T13:52:00+02:00</updated><id>http://localhost:4000/2022/09/12/title</id><content type="html" xml:base="http://localhost:4000/2022/09/12/title.html"><![CDATA[<p>I defended my PhD last week (yay!) and, of course, I did this thing where you combine all the research into one coherent linear story for the thesis. I think I did a decent job (arXiv soon) but really it’s not 100% accurate. Doing a PhD is more like 4 years of headlessly multitasking different projects while also teaching, with long streches of what feels like no progress at all…and then it all happens all at once! Three of my research projects resulted in conference papers this year. I might have been slighlty more relaxed about my PhD had this happened a bit sooner, hehe, but a) I am happy I got to work on them until I really felt they were finished, and b) I got to go to some in-person conferences this summer! What a treat after 2 years of Zoom-conferencing.</p>
 
-&lt;p&gt;&lt;strong&gt;Popular science // non-fiction books&lt;/strong&gt;&lt;/p&gt;
+<p>The work is:</p>
+<ol>
+  <li><a href="https://proceedings.mlr.press/v151/schwobel22a.html">Last Layer Marginal Likelihood for Invariance Learning</a> which appeared at AISTATS 2022.</li>
+  <li><a href="https://arxiv.org/pdf/2004.03637.pdf">Probabilistic Spatial Transfomer Networks</a> which appeared at UAI 2022 and</li>
+  <li><a href="https://arxiv.org/pdf/2203.06038.pdf">The Long Arc of Fairness: Formalisations and Ethical Discourse</a> which appeared at ACM FAccT 2022. This one was extra exciting since it took place in Seoul, South Korea – such an interesting place.</li>
+</ol>]]></content><author><name></name></author><summary type="html"><![CDATA[Three preprints have turned into conference papers this year.]]></summary></entry><entry><title type="html">PhD Defence</title><link href="http://localhost:4000/2022/09/08/title.html" rel="alternate" type="text/html" title="PhD Defence" /><published>2022-09-08T19:09:00+02:00</published><updated>2022-09-08T19:09:00+02:00</updated><id>http://localhost:4000/2022/09/08/title</id><content type="html" xml:base="http://localhost:4000/2022/09/08/title.html"><![CDATA[<p>PhD defences are public in Denmark and a big part of it is a lecture by the PhD candidate. Mine is available <a href="https://www.youtube.com/watch?v=Y9NUo_3cUIw">here</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[I successfully defended my PhD.]]></summary></entry><entry><title type="html">AI Ethics Reading List</title><link href="http://localhost:4000/2021/11/01/title.html" rel="alternate" type="text/html" title="AI Ethics Reading List" /><published>2021-11-01T19:11:00+01:00</published><updated>2021-11-01T19:11:00+01:00</updated><id>http://localhost:4000/2021/11/01/title</id><content type="html" xml:base="http://localhost:4000/2021/11/01/title.html"><![CDATA[<p>Here’s some reading that I’ve enjoyed or am looking forward to on AI Ethics and Fair ML:</p>
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Weapons of math destruction — &lt;em&gt;Cathy O’Neil&lt;/em&gt;:
-Nice outline of what I believe is the biggest ethical concern regarding ML systems: They reinforce existing biases and inequalities.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Data Feminism — &lt;em&gt;Catherine D’Ignazio &amp;amp; Lauren F. Klein&lt;/em&gt;:
-A tour of data/AI ethics from a feminist standpoint; feminism here meant in its broadest intersectional sense (i.e. they also consider race, ability status, etc.). Quite heavy on the examples. This book is &lt;a href=&quot;https://data-feminism.mitpress.mit.edu&quot;&gt; freely available online &lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Algorithms of Oppression — &lt;em&gt;Safiya Umoja Noble&lt;/em&gt;: 
-Focuses on race and representation in the context of search engines.  &lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Race after technology — &lt;em&gt;Ruha Benjamin&lt;/em&gt;: 
-I haven’t read this one yet, here’s what Wikipedia says: “Race After Technology: Abolitionist Tools for the New Jim Code is a 2019 American book focusing on a range of ways in which social hierarchies, particularly racism, are embedded in the logical layer of internet-based technologies.”&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Alignment Problem: Machine Learning and Human Values — &lt;em&gt;Brian Christian&lt;/em&gt;:
-I haven’t read this one yet, it seems to be a pretty broad intro to the ethics of ML.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Invisible Women — &lt;em&gt;Caroline Criado Perez&lt;/em&gt;: 
+<p><strong>Popular science // non-fiction books</strong></p>
+
+<ul>
+  <li>
+    <p>Weapons of math destruction — <em>Cathy O’Neil</em>:
+Nice outline of what I believe is the biggest ethical concern regarding ML systems: They reinforce existing biases and inequalities.</p>
+  </li>
+  <li>
+    <p>Data Feminism — <em>Catherine D’Ignazio &amp; Lauren F. Klein</em>:
+A tour of data/AI ethics from a feminist standpoint; feminism here meant in its broadest intersectional sense (i.e. they also consider race, ability status, etc.). Quite heavy on the examples. This book is <a href="https://data-feminism.mitpress.mit.edu"> freely available online </a>.</p>
+  </li>
+  <li>
+    <p>Algorithms of Oppression — <em>Safiya Umoja Noble</em>: 
+Focuses on race and representation in the context of search engines.  </p>
+  </li>
+  <li>
+    <p>Race after technology — <em>Ruha Benjamin</em>: 
+I haven’t read this one yet, here’s what Wikipedia says: “Race After Technology: Abolitionist Tools for the New Jim Code is a 2019 American book focusing on a range of ways in which social hierarchies, particularly racism, are embedded in the logical layer of internet-based technologies.”</p>
+  </li>
+  <li>
+    <p>The Alignment Problem: Machine Learning and Human Values — <em>Brian Christian</em>:
+I haven’t read this one yet, it seems to be a pretty broad intro to the ethics of ML.</p>
+  </li>
+  <li>
+    <p>Invisible Women — <em>Caroline Criado Perez</em>: 
 A lot of our world is designed in a data-driven way, but for historical reasons this data is often data collected on men (for example in the military). As a consequence women are, for example, 47% more likely to get injured in car accidents. Urgh. 
-Can also recommend the related &lt;a href=&quot;https://99percentinvisible.org/episode/invisible-women/&quot;&gt;99% invisible podcast episode&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Age of Surveillance Capitalism — &lt;em&gt;Shoshana Zuboff&lt;/em&gt;:
-An analysis of the problematic economics of big data.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Artificial Unintelligence — &lt;em&gt;Meredith Broussard&lt;/em&gt;:
-“A guide to understanding the inner workings and outer limits of technology and why we should never assume that computers always get it right.”&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+Can also recommend the related <a href="https://99percentinvisible.org/episode/invisible-women/">99% invisible podcast episode</a>.</p>
+  </li>
+  <li>
+    <p>The Age of Surveillance Capitalism — <em>Shoshana Zuboff</em>:
+An analysis of the problematic economics of big data.</p>
+  </li>
+  <li>
+    <p>Artificial Unintelligence — <em>Meredith Broussard</em>:
+“A guide to understanding the inner workings and outer limits of technology and why we should never assume that computers always get it right.”</p>
+  </li>
+</ul>
 
-&lt;p&gt;&lt;strong&gt;Science writing&lt;/strong&gt;&lt;/p&gt;
+<p><strong>Science writing</strong></p>
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;FairML book — &lt;em&gt;Solon Barocas, Moritz Hardt &amp;amp; Arvind Narayanan&lt;/em&gt;:
-A textbook on fair machine learning giving an overview of the relatively young field. This is for technical readers (nothing scary but contains some math/ml). Available &lt;a href=&quot;https://fairmlbook.org&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://facctconference.org/index.html&quot;&gt;FAccT conference proceedings &lt;/a&gt;: 
-Latest research trends within Fairness, Accountability and Transparency in ML.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li>
+    <p>FairML book — <em>Solon Barocas, Moritz Hardt &amp; Arvind Narayanan</em>:
+A textbook on fair machine learning giving an overview of the relatively young field. This is for technical readers (nothing scary but contains some math/ml). Available <a href="https://fairmlbook.org">here</a>.</p>
+  </li>
+  <li>
+    <p><a href="https://facctconference.org/index.html">FAccT conference proceedings </a>: 
+Latest research trends within Fairness, Accountability and Transparency in ML.</p>
+  </li>
+</ul>
 
-&lt;p&gt;&lt;strong&gt;Blogs etc.&lt;/strong&gt;&lt;/p&gt;
+<p><strong>Blogs etc.</strong></p>
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.ajl.org&quot;&gt;Algorithmic Justice League&lt;/a&gt;. 
-The amazing &lt;em&gt;Joy Buolamwini&lt;/em&gt; who started the AJL initiative and her collaborators made a documentary, it’s on &lt;a href=&quot;https://www.netflix.com/title/81328723&quot;&gt;Netflix&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;An &lt;a href=&quot;https://thegradient.pub/justitia-ex-machina/&quot;&gt;article&lt;/a&gt; on why I believe it’s useful working on ML Fairness.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Here’s some reading that I’ve enjoyed or am looking forward to on AI Ethics and Fair ML:</summary></entry><entry><title type="html">gradient article</title><link href="http://localhost:4000/2021/07/17/title.html" rel="alternate" type="text/html" title="gradient article" /><published>2021-07-17T20:26:00+01:00</published><updated>2021-07-17T20:26:00+01:00</updated><id>http://localhost:4000/2021/07/17/title</id><content type="html" xml:base="http://localhost:4000/2021/07/17/title.html">&lt;p&gt;More thoughts on Algorithmic Fairness. &lt;a href=&quot;https://thegradient.pub/justitia-ex-machina/&quot;&gt;Can morals be automated?&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">More thoughts on Algorithmic Fairness. Can morals be automated?.</summary></entry><entry><title type="html">paper</title><link href="http://localhost:4000/2021/07/10/title.html" rel="alternate" type="text/html" title="paper" /><published>2021-07-10T21:00:00+01:00</published><updated>2021-07-10T21:00:00+01:00</updated><id>http://localhost:4000/2021/07/10/title</id><content type="html" xml:base="http://localhost:4000/2021/07/10/title.html">&lt;p&gt;&lt;a href=&quot;https://arxiv.org/pdf/2106.07512.pdf&quot;&gt;This work&lt;/a&gt; is the outcome of my (mostly remote, unfortunately) research stay at Imperial College London where I was visiting Mark van der Wilk. Other collaborators are Martin Jørgensen and Sebastian Ober.&lt;/p&gt;</content><author><name></name></author><summary type="html">This work is the outcome of my (mostly remote, unfortunately) research stay at Imperial College London where I was visiting Mark van der Wilk. Other collaborators are Martin Jørgensen and Sebastian Ober.</summary></entry><entry><title type="html">portrait</title><link href="http://localhost:4000/2020/11/04/title.html" rel="alternate" type="text/html" title="portrait" /><published>2020-11-04T09:26:00+00:00</published><updated>2020-11-04T09:26:00+00:00</updated><id>http://localhost:4000/2020/11/04/title</id><content type="html" xml:base="http://localhost:4000/2020/11/04/title.html">&lt;p&gt;I was interviewed for an article about my work in non-technical terms that you can find &lt;a href=&quot;https://www.dtu.dk/english/about/press-room/articles/2020/11/matematik-med-et-menneskeligt-ansigt?id=375e1e4f-bbdd-4523-a89f-5ca287614ac5&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">I was interviewed for an article about my work in non-technical terms that you can find here.</summary></entry><entry><title type="html">thoughts on algorithmic fairness</title><link href="http://localhost:4000/2020/10/18/title.html" rel="alternate" type="text/html" title="thoughts on algorithmic fairness" /><published>2020-10-18T17:44:00+01:00</published><updated>2020-10-18T17:44:00+01:00</updated><id>http://localhost:4000/2020/10/18/title</id><content type="html" xml:base="http://localhost:4000/2020/10/18/title.html">&lt;p&gt;&lt;strong&gt;Introduction and Overview&lt;/strong&gt;&lt;/p&gt;
+<ul>
+  <li>
+    <p><a href="https://www.ajl.org">Algorithmic Justice League</a>. 
+The amazing <em>Joy Buolamwini</em> who started the AJL initiative and her collaborators made a documentary, it’s on <a href="https://www.netflix.com/title/81328723">Netflix</a>.</p>
+  </li>
+  <li>
+    <p>An <a href="https://thegradient.pub/justitia-ex-machina/">article</a> on why I believe it’s useful working on ML Fairness.</p>
+  </li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[I put together a list of (popular) science books and blog posts.]]></summary></entry><entry><title type="html">Gradient Article</title><link href="http://localhost:4000/2021/07/17/title.html" rel="alternate" type="text/html" title="Gradient Article" /><published>2021-07-17T21:26:00+02:00</published><updated>2021-07-17T21:26:00+02:00</updated><id>http://localhost:4000/2021/07/17/title</id><content type="html" xml:base="http://localhost:4000/2021/07/17/title.html"><![CDATA[<p>More thoughts on Algorithmic Fairness. <a href="https://thegradient.pub/justitia-ex-machina/">Can morals be automated?</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[We wrote an article on algoritmic fairness for the Gradient.]]></summary></entry><entry><title type="html">Paper</title><link href="http://localhost:4000/2021/07/10/title.html" rel="alternate" type="text/html" title="Paper" /><published>2021-07-10T22:00:00+02:00</published><updated>2021-07-10T22:00:00+02:00</updated><id>http://localhost:4000/2021/07/10/title</id><content type="html" xml:base="http://localhost:4000/2021/07/10/title.html"><![CDATA[<p><a href="https://arxiv.org/pdf/2106.07512.pdf">This work</a> is the outcome of my (mostly remote, unfortunately) research stay at Imperial College London where I was visiting Mark van der Wilk. Other collaborators are Martin Jørgensen and Sebastian Ober.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[A preprint for "Last Layer Marginal Likelihood for Invariance Learning" is out on arxiv.]]></summary></entry><entry><title type="html">Thoughts on Algorithmic Fairness</title><link href="http://localhost:4000/2020/10/18/title.html" rel="alternate" type="text/html" title="Thoughts on Algorithmic Fairness" /><published>2020-10-18T18:44:00+02:00</published><updated>2020-10-18T18:44:00+02:00</updated><id>http://localhost:4000/2020/10/18/title</id><content type="html" xml:base="http://localhost:4000/2020/10/18/title.html"><![CDATA[<p><strong>Introduction and Overview</strong></p>
 
-&lt;p&gt;As research in machine learning is rapidly progressing, more and more decisions that affect our lives are being automated. These can be rather trivial decisions (e.g. which coffee brand is advertised to me online), but increasingly also more essential judgements are being handed over to algorithms, for example whether we are eligible for a bank loan in order to buy an apartment. If algorithms fail in such a scenario, the consequences for the individual are dire.
- The COMPAS case is arguably the most prominent example of such algorithmic decision-making failing in systematic ways - in an extremely high stakes scenario.  The COMPAS (short for Correctional Offender Management Profiling for Alternative Sanctions) algorithm is a predictive justice tool by for-profit company Northpointe used in the US to evaluate risk of recidivism, i.e. how likely a criminal is to re-offend. The tool is used by judges in their decision making on parole, sentence length etc.  Investigative journalists at ProPublica discovered in their famous 2016 study [1] how Northpointe’s algorithm is racially biased: it more often underestimates risk of re-offending for white people and overestimates it for African Americans.&lt;/p&gt;
+<p>As research in machine learning is rapidly progressing, more and more decisions that affect our lives are being automated. These can be rather trivial decisions (e.g. which coffee brand is advertised to me online), but increasingly also more essential judgements are being handed over to algorithms, for example whether we are eligible for a bank loan in order to buy an apartment. If algorithms fail in such a scenario, the consequences for the individual are dire.
+ The COMPAS case is arguably the most prominent example of such algorithmic decision-making failing in systematic ways - in an extremely high stakes scenario.  The COMPAS (short for Correctional Offender Management Profiling for Alternative Sanctions) algorithm is a predictive justice tool by for-profit company Northpointe used in the US to evaluate risk of recidivism, i.e. how likely a criminal is to re-offend. The tool is used by judges in their decision making on parole, sentence length etc.  Investigative journalists at ProPublica discovered in their famous 2016 study [1] how Northpointe’s algorithm is racially biased: it more often underestimates risk of re-offending for white people and overestimates it for African Americans.</p>
 
-&lt;div class=&quot;img&quot;&gt;
-	&lt;img class=&quot;col three&quot; src=&quot;/img/compas_scores.png&quot; /&gt;
-&lt;/div&gt;
-&lt;div class=&quot;col three caption&quot;&gt;
+<div class="img">
+	<img class="col three" src="/img/compas_scores.png" />
+</div>
+<div class="col three caption">
 	Error rates for the COMPAS algorithm.
-&lt;/div&gt;
+</div>
 
-&lt;p&gt;Pro-publica’s work brought the problem of Algorithmic Fairness and Bias into the spotlight and started a heated debate within the general public as well as the scientific community. 
-Computer scientists (along with statisticians, law scholars and political and social scientists) responded quickly with attempts to fix those biases. A community on Algorithmic Fairness formed and is steadily growing, publishing a large body of research for example through ACM’s conference on Fairness, Accountability and Transparency being held yearly since 2018 [2].&lt;/p&gt;
+<p>Pro-publica’s work brought the problem of Algorithmic Fairness and Bias into the spotlight and started a heated debate within the general public as well as the scientific community. 
+Computer scientists (along with statisticians, law scholars and political and social scientists) responded quickly with attempts to fix those biases. A community on Algorithmic Fairness formed and is steadily growing, publishing a large body of research for example through ACM’s conference on Fairness, Accountability and Transparency being held yearly since 2018 [2].</p>
 
-&lt;p&gt;As scientists, much of their early efforts went into defining what is actually means for an algorithm to be “fair”. Such fairness metrics can be roughly divided into three categories: criteria based on group fairness, individual fairness and causal criteria (see info box).&lt;/p&gt;
+<p>As scientists, much of their early efforts went into defining what is actually means for an algorithm to be “fair”. Such fairness metrics can be roughly divided into three categories: criteria based on group fairness, individual fairness and causal criteria (see info box).</p>
 
-&lt;div style=&quot;background:#efefef; padding:2em; margin: 2em 2em 2em;&quot;&gt;
-&lt;b&gt; Example of Fairness metrics for the example of university admission &lt;/b&gt; &lt;br /&gt;
-
-
-For illustration, we use gender as the “protected attribute” with respect to which fairness is to be analysed.  &lt;br /&gt;&lt;br /&gt;
+<div style="background:#efefef; padding:2em; margin: 2em 2em 2em;">
+<b> Example of Fairness metrics for the example of university admission </b> <br />
 
 
-&lt;b&gt; Individual Fairness: &lt;/b&gt; “Similar individuals should have similar outcomes”. If student A and B have the same GPA, they should either both be admitted or both not be admitted, no matter their gender. &lt;br /&gt;
-&lt;b&gt; Group Fairness: &lt;/b&gt; “ Demographic groups should have similar outcomes”. An equal amount of men and women should be admitted, even if this means different GPA thresholds for male and female students. &lt;br /&gt;
-&lt;b&gt; Causal Fairness criteria: &lt;/b&gt; “The protected attribute should not influence the decision”. The outcome doesn’t matter as long as the gender has not explicitly been used to arrive at the decision.
-&lt;/div&gt;
+For illustration, we use gender as the “protected attribute” with respect to which fairness is to be analysed.  <br /><br />
 
-&lt;p&gt;Researchers then go on to think about ways to achieve such fairness criteria. One approach is to manipulate an algorithm’s training data by upsampling any underrepresented groups in the dataset. Alternatively, one can modify the algorithm itself. For the above example of college admission, this could mean decreasing the required GPA for a certain subpopulation in order to obtain a diverse student body.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Criticism of these approaches&lt;/strong&gt;&lt;/p&gt;
+<b> Individual Fairness: </b> “Similar individuals should have similar outcomes”. If student A and B have the same GPA, they should either both be admitted or both not be admitted, no matter their gender. <br />
+<b> Group Fairness: </b> “ Demographic groups should have similar outcomes”. An equal amount of men and women should be admitted, even if this means different GPA thresholds for male and female students. <br />
+<b> Causal Fairness criteria: </b> “The protected attribute should not influence the decision”. The outcome doesn’t matter as long as the gender has not explicitly been used to arrive at the decision.
+</div>
 
-&lt;p&gt;Lately, this type of work has faced a fair amount of criticism. Two arguments come up repeatedly: 
-Firstly, there is what I call practical criticism: It’s impossible to quantify a complex concept like fairness, and interestingly, even if we seem to succeed, we often produce inconsistencies between the different fairness criteria discussed above. This can be formally proven in incompatibility theorems like the ones presented in [3]. Here’s an intuitive argument for why individual and group fairness can contradict each other: Imagine a university is admitting students solely based on their final high school GPA. Women had slightly higher grades on average. If we try to respect &lt;em&gt;individual fairness&lt;/em&gt; our admission algorithm could simply be a threshold, grade &amp;gt; t, applied to each student in the exact same way. Because of the difference in grade distribution, this would mean more women than men admitted - a clash with &lt;em&gt;group fairness&lt;/em&gt;.&lt;/p&gt;
+<p>Researchers then go on to think about ways to achieve such fairness criteria. One approach is to manipulate an algorithm’s training data by upsampling any underrepresented groups in the dataset. Alternatively, one can modify the algorithm itself. For the above example of college admission, this could mean decreasing the required GPA for a certain subpopulation in order to obtain a diverse student body.</p>
 
-&lt;p&gt;Computational, quantitative methods aren’t sufficient to solve deep ethical problems. We have tried since at least the 17th century, when Leibniz attempted to formalize a calculus of reason that would allow us to solve any argument, especially a moral one, by pure logic deduction:   &lt;/p&gt;
-&lt;blockquote&gt;
+<p><strong>Criticism of these approaches</strong></p>
+
+<p>Lately, this type of work has faced a fair amount of criticism. Two arguments come up repeatedly: 
+Firstly, there is what I call practical criticism: It’s impossible to quantify a complex concept like fairness, and interestingly, even if we seem to succeed, we often produce inconsistencies between the different fairness criteria discussed above. This can be formally proven in incompatibility theorems like the ones presented in [3]. Here’s an intuitive argument for why individual and group fairness can contradict each other: Imagine a university is admitting students solely based on their final high school GPA. Women had slightly higher grades on average. If we try to respect <em>individual fairness</em> our admission algorithm could simply be a threshold, grade &gt; t, applied to each student in the exact same way. Because of the difference in grade distribution, this would mean more women than men admitted - a clash with <em>group fairness</em>.</p>
+
+<p>Computational, quantitative methods aren’t sufficient to solve deep ethical problems. We have tried since at least the 17th century, when Leibniz attempted to formalize a calculus of reason that would allow us to solve any argument, especially a moral one, by pure logic deduction:   </p>
+<blockquote>
 	“The only way to rectify our reasonings is to make them as tangible as those of the 
   Mathematicians, so that we can find our error at a glance, and when there are
  	disputes  among persons, we can simply say: 
  Let us calculate, without further ado, to see who is right.” [4]
-&lt;/blockquote&gt;
-&lt;p&gt;Yet we disagree about the most basic questions - a richer language than what the formalisms of mathematics provide seems to be necessary to encapsulate the ambiguities and, sometimes, contradictions inherent to moral discourse.&lt;/p&gt;
+</blockquote>
+<p>Yet we disagree about the most basic questions - a richer language than what the formalisms of mathematics provide seems to be necessary to encapsulate the ambiguities and, sometimes, contradictions inherent to moral discourse.</p>
 
-&lt;p&gt;Secondly, the algorithmic fairness community is accused of lobbying for big tech. Large corporations are very interested in the topic: Famously, Google founded (and immediately shut down) an ethics board in 2019 [5] but continues to work on the topic [6]. Other examples are their AI daughter company DeepMind with its Ethics &amp;amp; Society group [7] as well as Microsoft’s efforts [8]. All of these companies sponsored the above-mentioned ACM conference on Fairness, Accountability and Transparency in 2020 [9], and it’s worth taking a closer look at their motives.
-Certainly, many of the individuals working on such questions in a corporate setting do so, because they acknowledge the huge responsibility and importance of their work and are committed to working on safe and ethical technologies. As profit-seeking companies, however, they certainly have other driving forces as well, an important one being their reputation. “White-washing” their algorithms and attempting to turn them into ethical technologies, however, has another major advantage for big tech companies: By performing small technical adjustments to their products, they can hope to circumvent regulation through laws. As Rodrigo Ochigame phrases it: “The majority of well-funded work on “ethical AI” is aligned with the tech lobby’s agenda: to voluntarily or moderately adjust, rather than legally restrict, the deployment of controversial technologies” [10]. Academia is at danger of becoming complicit in this: “Silicon Valley’s vigorous promotion of “ethical AI” has constituted a strategic lobbying effort, one that has enrolled academia to legitimize itself.” [10]&lt;/p&gt;
+<p>Secondly, the algorithmic fairness community is accused of lobbying for big tech. Large corporations are very interested in the topic: Famously, Google founded (and immediately shut down) an ethics board in 2019 [5] but continues to work on the topic [6]. Other examples are their AI daughter company DeepMind with its Ethics &amp; Society group [7] as well as Microsoft’s efforts [8]. All of these companies sponsored the above-mentioned ACM conference on Fairness, Accountability and Transparency in 2020 [9], and it’s worth taking a closer look at their motives.
+Certainly, many of the individuals working on such questions in a corporate setting do so, because they acknowledge the huge responsibility and importance of their work and are committed to working on safe and ethical technologies. As profit-seeking companies, however, they certainly have other driving forces as well, an important one being their reputation. “White-washing” their algorithms and attempting to turn them into ethical technologies, however, has another major advantage for big tech companies: By performing small technical adjustments to their products, they can hope to circumvent regulation through laws. As Rodrigo Ochigame phrases it: “The majority of well-funded work on “ethical AI” is aligned with the tech lobby’s agenda: to voluntarily or moderately adjust, rather than legally restrict, the deployment of controversial technologies” [10]. Academia is at danger of becoming complicit in this: “Silicon Valley’s vigorous promotion of “ethical AI” has constituted a strategic lobbying effort, one that has enrolled academia to legitimize itself.” [10]</p>
 
-&lt;p&gt;He argues that this is not a new phenomenon. Historically, socially unjust decision procedures have often been justified with statistical objectivity. [11] As an example, credit scoring (i.e. banks evaluating whether or not an individual is eligible for a bank loan) used to be based on personal interviews which were supposed to evaluate an individual’s ‘character’. An outcome of such an interview is of course influenced by the interviewer’s individual opinions and thus very vulnerable to possible biases they hold w.r.t. race or class. In the 1960s, such interviews started to be replaced with statistical calculations of credit scores, which inherited their human designer’s biases. When a ban of credit “scorecards” was proposed in the 1970s within the framework of anti-discrimination legislation, their producer Fair, Isaac &amp;amp; Company argued the statistical objectivity of such methods in order to demonstrate compliance with the definition of fairness in the law [11]. Like today, by reducing issues of discrimination and injustice to statistical calculations, we are at danger of cutting out important aspects of such complex moral and political questions, and are possibly standing in the way of urgently necessary regulation of automated decision making technology.&lt;/p&gt;
+<p>He argues that this is not a new phenomenon. Historically, socially unjust decision procedures have often been justified with statistical objectivity. [11] As an example, credit scoring (i.e. banks evaluating whether or not an individual is eligible for a bank loan) used to be based on personal interviews which were supposed to evaluate an individual’s ‘character’. An outcome of such an interview is of course influenced by the interviewer’s individual opinions and thus very vulnerable to possible biases they hold w.r.t. race or class. In the 1960s, such interviews started to be replaced with statistical calculations of credit scores, which inherited their human designer’s biases. When a ban of credit “scorecards” was proposed in the 1970s within the framework of anti-discrimination legislation, their producer Fair, Isaac &amp; Company argued the statistical objectivity of such methods in order to demonstrate compliance with the definition of fairness in the law [11]. Like today, by reducing issues of discrimination and injustice to statistical calculations, we are at danger of cutting out important aspects of such complex moral and political questions, and are possibly standing in the way of urgently necessary regulation of automated decision making technology.</p>
 
-&lt;p&gt;&lt;strong&gt;A defense of our attempts&lt;/strong&gt;&lt;/p&gt;
+<p><strong>A defense of our attempts</strong></p>
 
-&lt;p&gt;Despite this valid criticism, I find technical work within algorithmic fairness valuable. It is useful for researchers to try and morally evaluate their work in order to make sure it aligns with their values. Of course, as computer scientists, quantitative methods are the tools most accessible to us, and I do think there is great value in phrasing ethical questions in the language of our community. This should be done avoiding the reductionist trap - always having in mind that ours is just one way to look at the problem. 
-Fair ML research should not be carried out as an alternative to solid law-making efforts. Rather, as computer scientists, logicians, statisticians and alike, we should aim to support such efforts, and to translate between social science, law, philosophy and the computational sciences. An example of this “translation” approach is Martin Mose Bentzen’s work on formalizing classic philosophical concepts for use in robots, e.g. in his paper “A Formalization of Kant’s Second Formulation of the Categorical Imperative” [12].&lt;/p&gt;
+<p>Despite this valid criticism, I find technical work within algorithmic fairness valuable. It is useful for researchers to try and morally evaluate their work in order to make sure it aligns with their values. Of course, as computer scientists, quantitative methods are the tools most accessible to us, and I do think there is great value in phrasing ethical questions in the language of our community. This should be done avoiding the reductionist trap - always having in mind that ours is just one way to look at the problem. 
+Fair ML research should not be carried out as an alternative to solid law-making efforts. Rather, as computer scientists, logicians, statisticians and alike, we should aim to support such efforts, and to translate between social science, law, philosophy and the computational sciences. An example of this “translation” approach is Martin Mose Bentzen’s work on formalizing classic philosophical concepts for use in robots, e.g. in his paper “A Formalization of Kant’s Second Formulation of the Categorical Imperative” [12].</p>
 
-&lt;p&gt;The discussion of whether or not research on ethical AI and fair machine learning has its place can be embedded in the much larger discussion about the moral responsibility of science. Are science and technology neutral and their moral value purely determined by some application or user, or do we as scientists carry a responsibility? 
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+<p>The discussion of whether or not research on ethical AI and fair machine learning has its place can be embedded in the much larger discussion about the moral responsibility of science. Are science and technology neutral and their moral value purely determined by some application or user, or do we as scientists carry a responsibility? 
+<br />
+<br /></p>
 
-&lt;hr /&gt;
-&lt;h4 id=&quot;references&quot;&gt;References&lt;/h4&gt;
-&lt;p&gt;&lt;small&gt;
-[1] &lt;a href=&quot;https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing&quot;&gt;https://www.propublica.org/article/ machine-bias-risk-assessments-in-criminal-sentencing&lt;/a&gt;  &lt;br /&gt;
-[2] &lt;a href=&quot;https://facctconference.org&quot;&gt;https://facctconference.org&lt;/a&gt;  &lt;br /&gt;
-[3] Dwork, Cynthia, et al. “Fairness through awareness.” Proceedings of the 3rd innovations in theoretical computer science conference. 2012.  &lt;br /&gt;
-[4] Leibniz, G. W. (1951), Leibniz: Selections, P. P. Wiener (Ed. Trans.), New York: Scribner, p. 51. – cited from &lt;a href=&quot;https://publicdomainreview.org/essay/let-us-calculate-leibniz-llull-and-the-computational-imagination#fn13&quot;&gt; https://publicdomainreview.org/essay/let-us-calculate-leibniz-llull-and-the-computational-imagination#fn13&lt;/a&gt;  &lt;br /&gt;
-[5] &lt;a href=&quot;https://www.bbc.com/news/technology-47825833&quot;&gt;https://www.bbc.com/news/technology-47825833&lt;/a&gt;  &lt;br /&gt;
-[6] &lt;a href=&quot;https://developers.google.com/machine-learning/fairness-overview&quot;&gt;https://developers.google.com/machine-learning/fairness-overview&lt;/a&gt;  &lt;br /&gt;
-[7] &lt;a href=&quot;https://deepmind.com/about/ethics-and-society&quot;&gt;https://deepmind.com/about/ethics-and-society&lt;/a&gt;  &lt;br /&gt;
-[8] &lt;a href=&quot;https://www.microsoft.com/en-us/ai/responsible-ai&quot;&gt;https://www.microsoft.com/en-us/ai/responsible-ai&lt;/a&gt;  &lt;br /&gt;
-[9] &lt;a href=&quot;https://facctconference.org/2020/sponsorship.html&quot;&gt;https://facctconference.org/2020/sponsorship.html&lt;/a&gt;  &lt;br /&gt;
-[10] &lt;a href=&quot;https://theintercept.com/2019/12/20/mit-ethical-ai-artificial-intelligence/&quot;&gt;https://theintercept.com/2019/12/20/mit-ethical-ai-artificial-intelligence/&lt;/a&gt;  &lt;br /&gt;
-[11] Martha A. Poon, “What Lenders See: A History of the Fair Isaac Scorecard” (PhD diss., UC San Diego, 2012), 167–214.  &lt;br /&gt;
-[12] Lindner, Felix, and Martin Mose Bentzen. “A Formalization of Kant’s Second Formulation of the Categorical Imperative.” arXiv preprint arXiv:1801.03160 (2018).  &lt;br /&gt;
-&lt;/small&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Introduction and Overview</summary></entry><entry><title type="html">paper</title><link href="http://localhost:4000/2020/07/10/title.html" rel="alternate" type="text/html" title="paper" /><published>2020-07-10T10:26:00+01:00</published><updated>2020-07-10T10:26:00+01:00</updated><id>http://localhost:4000/2020/07/10/title</id><content type="html" xml:base="http://localhost:4000/2020/07/10/title.html">&lt;p&gt;You can find “Probabilistic Spatial Transformers for Bayesian Data Augmentation” &lt;a href=&quot;https://arxiv.org/pdf/2004.03637.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You can find “Probabilistic Spatial Transformers for Bayesian Data Augmentation” here.</summary></entry><entry><title type="html">talk at AI expo</title><link href="http://localhost:4000/2019/10/20/title.html" rel="alternate" type="text/html" title="talk at AI expo" /><published>2019-10-20T13:11:00+01:00</published><updated>2019-10-20T13:11:00+01:00</updated><id>http://localhost:4000/2019/10/20/title</id><content type="html" xml:base="http://localhost:4000/2019/10/20/title.html">&lt;p&gt;Last month I was invited to give a talk at the AI Expo at &lt;a href=&quot;hhttps://www.skylab.dtu.dk&quot;&gt;Skylab&lt;/a&gt;, DTU’s lovely space for student innovation and entrepreneurship. I gave a quick overview over the field of Algorithmic Fairness and spoke a bit about my own research. The slides can be found &lt;a href=&quot;/img/Bias_in_bias_out.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+<hr />
+<h4 id="references">References</h4>
+<p><small>
+[1] <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">https://www.propublica.org/article/ machine-bias-risk-assessments-in-criminal-sentencing</a>  <br />
+[2] <a href="https://facctconference.org">https://facctconference.org</a>  <br />
+[3] Dwork, Cynthia, et al. “Fairness through awareness.” Proceedings of the 3rd innovations in theoretical computer science conference. 2012.  <br />
+[4] Leibniz, G. W. (1951), Leibniz: Selections, P. P. Wiener (Ed. Trans.), New York: Scribner, p. 51. – cited from <a href="https://publicdomainreview.org/essay/let-us-calculate-leibniz-llull-and-the-computational-imagination#fn13"> https://publicdomainreview.org/essay/let-us-calculate-leibniz-llull-and-the-computational-imagination#fn13</a>  <br />
+[5] <a href="https://www.bbc.com/news/technology-47825833">https://www.bbc.com/news/technology-47825833</a>  <br />
+[6] <a href="https://developers.google.com/machine-learning/fairness-overview">https://developers.google.com/machine-learning/fairness-overview</a>  <br />
+[7] <a href="https://deepmind.com/about/ethics-and-society">https://deepmind.com/about/ethics-and-society</a>  <br />
+[8] <a href="https://www.microsoft.com/en-us/ai/responsible-ai">https://www.microsoft.com/en-us/ai/responsible-ai</a>  <br />
+[9] <a href="https://facctconference.org/2020/sponsorship.html">https://facctconference.org/2020/sponsorship.html</a>  <br />
+[10] <a href="https://theintercept.com/2019/12/20/mit-ethical-ai-artificial-intelligence/">https://theintercept.com/2019/12/20/mit-ethical-ai-artificial-intelligence/</a>  <br />
+[11] Martha A. Poon, “What Lenders See: A History of the Fair Isaac Scorecard” (PhD diss., UC San Diego, 2012), 167–214.  <br />
+[12] Lindner, Felix, and Martin Mose Bentzen. “A Formalization of Kant’s Second Formulation of the Categorical Imperative.” arXiv preprint arXiv:1801.03160 (2018).  <br />
+</small></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Can we get machines to make just decisions, and should we try?]]></summary></entry><entry><title type="html">Paper</title><link href="http://localhost:4000/2020/07/10/title.html" rel="alternate" type="text/html" title="Paper" /><published>2020-07-10T11:26:00+02:00</published><updated>2020-07-10T11:26:00+02:00</updated><id>http://localhost:4000/2020/07/10/title</id><content type="html" xml:base="http://localhost:4000/2020/07/10/title.html"><![CDATA[<p>You can find “Probabilistic Spatial Transformers for Bayesian Data Augmentation” <a href="https://arxiv.org/pdf/2004.03637.pdf">here</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[The "Probabilistic Spatial Transformers for Bayesian Data Augmentation" preprint is out on arxiv.]]></summary></entry><entry><title type="html">Talk at AI Expo</title><link href="http://localhost:4000/2019/10/20/title.html" rel="alternate" type="text/html" title="Talk at AI Expo" /><published>2019-10-20T14:11:00+02:00</published><updated>2019-10-20T14:11:00+02:00</updated><id>http://localhost:4000/2019/10/20/title</id><content type="html" xml:base="http://localhost:4000/2019/10/20/title.html"><![CDATA[<p>Last month I was invited to give a talk at the AI Expo at <a href="hhttps://www.skylab.dtu.dk">Skylab</a>, DTU’s lovely space for student innovation and entrepreneurship. I gave a quick overview over the field of Algorithmic Fairness and spoke a bit about my own research. The slides can be found <a href="/img/Bias_in_bias_out.pdf">here</a>.</p>
 
-&lt;div class=&quot;img&quot;&gt;
-	&lt;img class=&quot;col three&quot; src=&quot;/img/skylab.jpg&quot; /&gt;
-&lt;/div&gt;
-&lt;div class=&quot;col three caption&quot;&gt;
+<div class="img">
+	<img class="col three" src="/img/skylab.jpg" />
+</div>
+<div class="col three caption">
 	200+ people showed up and asked a lot of smart questions after my talk. Thanks!
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Last month I was invited to give a talk at the AI Expo at Skylab, DTU’s lovely space for student innovation and entrepreneurship. I gave a quick overview over the field of Algorithmic Fairness and spoke a bit about my own research. The slides can be found here.</summary></entry><entry><title type="html">summer school organization</title><link href="http://localhost:4000/2019/09/06/title.html" rel="alternate" type="text/html" title="summer school organization" /><published>2019-09-06T17:11:00+01:00</published><updated>2019-09-06T17:11:00+01:00</updated><id>http://localhost:4000/2019/09/06/title</id><content type="html" xml:base="http://localhost:4000/2019/09/06/title.html">&lt;p&gt;My section holds a summer school on Advanced Topics in Machine Learning every year. For the first time it was organized by a PhD student - me! I chose the topic “Fairness and Machine Learning” and hosted the &lt;a href=&quot;http://www2.compute.dtu.dk/courses/02901/&quot;&gt; event&lt;/a&gt; at DTU from August 26th - 30th.&lt;/p&gt;
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[I gave a talk at DTU's Skylab - "Bias in - Bias out? Building Fair Models from Imbalanced Data."]]></summary></entry><entry><title type="html">Summer School Organization</title><link href="http://localhost:4000/2019/09/06/title.html" rel="alternate" type="text/html" title="Summer School Organization" /><published>2019-09-06T18:11:00+02:00</published><updated>2019-09-06T18:11:00+02:00</updated><id>http://localhost:4000/2019/09/06/title</id><content type="html" xml:base="http://localhost:4000/2019/09/06/title.html"><![CDATA[<p>My section holds a summer school on Advanced Topics in Machine Learning every year. For the first time it was organized by a PhD student - me! I chose the topic “Fairness and Machine Learning” and hosted the <a href="http://www2.compute.dtu.dk/courses/02901/"> event</a> at DTU from August 26th - 30th.</p>
 
-&lt;p&gt;Algorithmic fairness is something I am interested in personally, and many more people are. A quite vibrant research field within computer science and ML in particular has emerged during the last 8 years or so. People are interested in measuring how “fair” algorithms are, for example by evaluating whether their decisions are equally advantageous for men and women, or whether the same prediction accuracy is achieved across different demographic groups. Once algorithmic bias is detected, researchers try to develop techniques to overcome it.&lt;/p&gt;
+<p>Algorithmic fairness is something I am interested in personally, and many more people are. A quite vibrant research field within computer science and ML in particular has emerged during the last 8 years or so. People are interested in measuring how “fair” algorithms are, for example by evaluating whether their decisions are equally advantageous for men and women, or whether the same prediction accuracy is achieved across different demographic groups. Once algorithmic bias is detected, researchers try to develop techniques to overcome it.</p>
 
-&lt;p&gt;Measuring fairness in such a quantitative way is of course a hard thing to do. Fairness can mean different things depending on context, and some of the definitions contradict each other. While we as computer scientists cannot solve those societal questions, I find it very useful to try and operationalize some of our ideas of ethics and translate them into formulas and code, thereby making them accessible for the technical community to work with. Putting something into maths is also a really good way to force yourself to be precise about what exactly you mean when you say an algorithm is (un-)fair.&lt;/p&gt;
+<p>Measuring fairness in such a quantitative way is of course a hard thing to do. Fairness can mean different things depending on context, and some of the definitions contradict each other. While we as computer scientists cannot solve those societal questions, I find it very useful to try and operationalize some of our ideas of ethics and translate them into formulas and code, thereby making them accessible for the technical community to work with. Putting something into maths is also a really good way to force yourself to be precise about what exactly you mean when you say an algorithm is (un-)fair.</p>
 
-&lt;p&gt;Our great speakers gave lectures and tutorials during the five course days. In the evening there were social events, e.g. a fantastic meetup where start up people talked about the implementation of the theoretical concepts we had been discussing. Super interesting week packed with smart people discussing difficult problems (and a lot of hard work pulling all the strings). Looking forward to next year!&lt;/p&gt;
+<p>Our great speakers gave lectures and tutorials during the five course days. In the evening there were social events, e.g. a fantastic meetup where start up people talked about the implementation of the theoretical concepts we had been discussing. Super interesting week packed with smart people discussing difficult problems (and a lot of hard work pulling all the strings). Looking forward to next year!</p>
 
-&lt;div class=&quot;img&quot;&gt;
-	&lt;img class=&quot;col three&quot; src=&quot;/img/silvia_chiappa.jpg&quot; /&gt;
-&lt;/div&gt;
-&lt;div class=&quot;col three caption&quot;&gt;
+<div class="img">
+	<img class="col three" src="/img/silvia_chiappa.jpg" />
+</div>
+<div class="col three caption">
 	A bad picture of a great talk: Silvia Chiappa from Deepmind talking about Algorithmic Fairness and Causal Inference.
-&lt;/div&gt;</content><author><name></name></author><summary type="html">My section holds a summer school on Advanced Topics in Machine Learning every year. For the first time it was organized by a PhD student - me! I chose the topic “Fairness and Machine Learning” and hosted the event at DTU from August 26th - 30th.</summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[I hosted a summer school on fairness and machine learning.]]></summary></entry></feed>
