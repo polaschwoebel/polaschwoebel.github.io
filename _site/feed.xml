@@ -1,5 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-16T12:47:55+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pola Schwöbel</title><subtitle>Postdoc at DTU.
-</subtitle><entry><title type="html">Papers</title><link href="http://localhost:4000/2022/09/12/title.html" rel="alternate" type="text/html" title="Papers" /><published>2022-09-12T13:52:00+02:00</published><updated>2022-09-12T13:52:00+02:00</updated><id>http://localhost:4000/2022/09/12/title</id><content type="html" xml:base="http://localhost:4000/2022/09/12/title.html"><![CDATA[<p>I defended my PhD last week (yay!) and, of course, I did this thing where you combine all the research into one coherent linear story for the thesis. I think I did a decent job – convince yourself <a href="https://backend.orbit.dtu.dk/ws/portalfiles/portal/300326716/PhD_thesis_Pola_Elisabeth_Schw_bel.pdf">here</a> – but really it’s not 100% accurate. Doing a PhD is more like 4 years of headlessly multitasking different projects while also teaching, with long stretches of what feels like no progress at all…and then it all happens all at once! Three of my research projects resulted in conference papers this year. I might have been slightly more relaxed about my PhD had this happened a bit sooner, but a) I am happy I got to work on them until I really felt they were finished, and b) I got to go to some in-person conferences this summer! What a treat after 2 years of Zoom-conferencing.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-26T17:14:58+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pola Schwöbel</title><subtitle>Postdoc at DTU.
+</subtitle><entry><title type="html">Geographical Erasure in Language Generation</title><link href="http://localhost:4000/2024/02/26/title.html" rel="alternate" type="text/html" title="Geographical Erasure in Language Generation" /><published>2024-02-26T09:36:00+01:00</published><updated>2024-02-26T09:36:00+01:00</updated><id>http://localhost:4000/2024/02/26/title</id><content type="html" xml:base="http://localhost:4000/2024/02/26/title.html"><![CDATA[<p>Last year was a big year for learning about large language models (LLMs), and about the ethical issues they raise. In our EMNLP 2023 Findings paper  <a href="https://aclanthology.org/2023.findings-emnlp.823.pdf">Geographical Erasure in Language Generation</a>, AWS colleagues and I study whether LLMs are geographically inclusive. They’re not – many countries are mentioned much less often than what their population would imply.</p>
+
+<div class="img">
+	<img src="/img/erasure.png" width="400" />
+</div>
+<div>
+	<i>Some countries are vastly underpredicted
+compared to their English speaking populations. Top:
+Country probabilities assigned by GPT-NeoX when
+prompted with “I live in”. Middle: English speaking
+populations per country. Bottom: Countries experiencing erasure, i.e. underprediction compared to their population by at least a factor 3 (see §3 of the paper). Data is missing
+for grey countries (see §6 of the paper).</i>
+</div>
+
+<p><br /></p>
+
+<p><strong>Resources:</strong></p>
+<ol>
+  <li>The <a href="https://assets.amazon.science/28/8d/14d013e44101b1acb76415342207/geographical-erasure-in-language-generation.pdf">paper</a>.</li>
+  <li>The code is open source, find it <a href="https://github.com/amazon-science/geographical-erasure-in-language-generation">here</a>.</li>
+  <li>A talk about the work at <a href="https://en.merantix-momentum.com/">Merantix Momentum</a> in Berlin (sorry, not the best audio!):</li>
+</ol>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GJtMJ6lFhaM?si=da9uQZN9n7zpr3HO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content><author><name></name></author><summary type="html"><![CDATA[Our EMNLP 2023 Findings paper finds that LLMs are not always geographically inclusive.]]></summary></entry><entry><title type="html">Papers</title><link href="http://localhost:4000/2022/09/12/title.html" rel="alternate" type="text/html" title="Papers" /><published>2022-09-12T13:52:00+02:00</published><updated>2022-09-12T13:52:00+02:00</updated><id>http://localhost:4000/2022/09/12/title</id><content type="html" xml:base="http://localhost:4000/2022/09/12/title.html"><![CDATA[<p>I defended my PhD last week (yay!) and, of course, I did this thing where you combine all the research into one coherent linear story for the thesis. I think I did a decent job – convince yourself <a href="https://backend.orbit.dtu.dk/ws/portalfiles/portal/300326716/PhD_thesis_Pola_Elisabeth_Schw_bel.pdf">here</a> – but really it’s not 100% accurate. Doing a PhD is more like 4 years of headlessly multitasking different projects while also teaching, with long stretches of what feels like no progress at all…and then it all happens all at once! Three of my research projects resulted in conference papers this year. I might have been slightly more relaxed about my PhD had this happened a bit sooner, but a) I am happy I got to work on them until I really felt they were finished, and b) I got to go to some in-person conferences this summer! What a treat after 2 years of Zoom-conferencing.</p>
 
 <p>The work is:</p>
 <ol>
@@ -21,7 +43,7 @@ A tour of data/AI ethics from a feminist standpoint; feminism here meant in its 
   </li>
   <li>
     <p>Algorithms of Oppression — <em>Safiya Umoja Noble</em>: 
-Focuses on race and representation in the context of search engines.  </p>
+Focuses on race and representation in the context of search engines.</p>
   </li>
   <li>
     <p>Race after technology — <em>Ruha Benjamin</em>: 

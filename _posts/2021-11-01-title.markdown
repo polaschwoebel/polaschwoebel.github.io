@@ -15,7 +15,7 @@ Nice outline of what I believe is the biggest ethical concern regarding ML syste
 A tour of data/AI ethics from a feminist standpoint; feminism here meant in its broadest intersectional sense (i.e. they also consider race, ability status, etc.). Quite heavy on the examples. This book is <a href="https://data-feminism.mitpress.mit.edu"> freely available online </a>.
 
 - Algorithms of Oppression — _Safiya Umoja Noble_: 
-Focuses on race and representation in the context of search engines.  
+Focuses on race and representation in the context of search engines. 
 
 - Race after technology — _Ruha Benjamin_: 
 I haven’t read this one yet, here’s what Wikipedia says: "Race After Technology: Abolitionist Tools for the New Jim Code is a 2019 American book focusing on a range of ways in which social hierarchies, particularly racism, are embedded in the logical layer of internet-based technologies."

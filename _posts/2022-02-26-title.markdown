@@ -1,0 +1,29 @@
+---
+layout: post
+title: Geographical Erasure in Language Generation
+date: 2024-02-26 08:36:00
+description: Our EMNLP 2023 Findings paper finds that LLMs are not always geographically inclusive.
+---
+
+Last year was a big year for learning about large language models (LLMs), and about the ethical issues they raise. In our EMNLP 2023 Findings paper  <a href="https://aclanthology.org/2023.findings-emnlp.823.pdf">Geographical Erasure in Language Generation</a>, AWS colleagues and I study whether LLMs are geographically inclusive. They're not -- many countries are mentioned much less often than what their population would imply.
+
+
+<div class="img" >
+	<img src="/img/erasure.png" width="400">
+</div>
+<div>
+	<i>Some countries are vastly underpredicted
+compared to their English speaking populations. Top:
+Country probabilities assigned by GPT-NeoX when
+prompted with “I live in”. Middle: English speaking
+populations per country. Bottom: Countries experiencing erasure, i.e. underprediction compared to their population by at least a factor 3 (see §3 of the paper). Data is missing
+for grey countries (see §6 of the paper).</i>
+</div>
+
+<br>
+
+**Resources:**
+1. The <a href="https://assets.amazon.science/28/8d/14d013e44101b1acb76415342207/geographical-erasure-in-language-generation.pdf">paper</a>. 
+2. The code is open source, find it <a href="https://github.com/amazon-science/geographical-erasure-in-language-generation">here</a>. 
+3. A talk about the work at <a href="https://en.merantix-momentum.com/">Merantix Momentum</a> in Berlin (sorry, not the best audio!):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GJtMJ6lFhaM?si=da9uQZN9n7zpr3HO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
